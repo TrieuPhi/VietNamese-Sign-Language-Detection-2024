@@ -3,13 +3,16 @@
 
 ## **1.1.  Sơ đồ khối![A diagram of a data storage system Description automatically generated](./Img/Aspose.Words.d7b39af0-c158-4eab-bde8-68b6f7301708.001.png)**
 
+
 ## **1.2.  Sử dụng sơ đồ trường hợp**
 
 ![A diagram of a person's diagram Description automatically generated](./Img/Aspose.Words.d7b39af0-c158-4eab-bde8-68b6f7301708.002.png)
 
+
 ## **1.3. Sơ đồ luồng dữ liệu**
 
 ![A diagram of a data flow Description automatically generated](./Img/Aspose.Words.d7b39af0-c158-4eab-bde8-68b6f7301708.003.png)![A diagram of a hand gestures Description automatically generated](./Img/Aspose.Words.d7b39af0-c158-4eab-bde8-68b6f7301708.004.png)
+
 
 # **2. CÁCH CHẠY CHƯƠNG TRÌNH**
 
