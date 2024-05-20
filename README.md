@@ -1,1 +1,0 @@
-# VietNamese-Sign-Language-Detection-2024
