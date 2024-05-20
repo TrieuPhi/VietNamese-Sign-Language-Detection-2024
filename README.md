@@ -1,9 +1,9 @@
 # VietNamese-Sign-Language-Detection-2024
 # **1. THIẾT KẾ VÀ KIẾN TRÚC HỆ THỐNG**
 
-## **1.1.  Sơ đồ khối
+## **1.1.  Sơ đồ khối**
 
-![A diagram of a data storage system Description automatically generated](./Img/Aspose.Words.d7b39af0-c158-4eab-bde8-68b6f7301708.001.png)**
+![A diagram of a data storage system Description automatically generated](./Img/Aspose.Words.d7b39af0-c158-4eab-bde8-68b6f7301708.001.png)
 
 ## **1.2.  Sử dụng sơ đồ trường hợp**
 
